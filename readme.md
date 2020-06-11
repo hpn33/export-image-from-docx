@@ -2,6 +2,7 @@
 
 ## Requirment
 * Python 3.x
+* pip docx2txt
 
 ## How to use?
 ### File Way
@@ -20,3 +21,9 @@ script find any docx file and extract image's to the folder with same name of fi
 script take path of file 
 and make a folder with same name of file
 and move image's of file to the folder that maked
+
+## TODO
+
+[ ] - option: delete docx file after export image
+[ ] - option: how many level of deeping on folder's to extract
+
